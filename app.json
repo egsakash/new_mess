@@ -1,0 +1,11 @@
+{
+    "name": "Simple HIGH SPEED Webserver on Heroku",
+    "description": "Deploy A server on heroku",
+    "env": {
+        "UUID": {
+            "description": "UUID",
+            "required": true        
+        }
+    },
+    "stack": "container"
+}
