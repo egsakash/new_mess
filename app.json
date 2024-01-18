@@ -1,6 +1,11 @@
 {
     "name": "Simple HIGH SPEED Webserver on Heroku",
     "description": "Deploy A server on heroku",
+    "keywords": [
+    "productivity",
+    "HTML5",
+    "scalpel"
+    ],
     "env": {
         "UUID": {
             "description": "UUID",
