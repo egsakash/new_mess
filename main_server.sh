@@ -10,7 +10,7 @@ cat << EOF > /etc/xray/config.json
       "settings": {
         "clients": [
           {
-            "id": "0f772de9-0360-4dd9-8ab1-6d540620931b"
+            "id": $UUID
           }
         ]
       },
